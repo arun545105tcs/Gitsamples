@@ -1,1 +1,2 @@
-This is the new file for CR3
+To add new file to test conflict
+To test conflict in Test branch
